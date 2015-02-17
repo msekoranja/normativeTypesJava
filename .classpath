@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry combineaccessrules="false" kind="src" path="/pvDataJava"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pvAccessJava"/>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="test"/>
+	<classpathentry including="**/*.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/epics/jca/2.3.6/jca-2.3.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/epics/caj/1.1.14/caj-1.1.14.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
